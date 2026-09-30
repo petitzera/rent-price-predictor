@@ -1,0 +1,16 @@
+# Raw data: too large for Git, download from Kaggle instead
+data/
+
+# Virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter auto-save checkpoints
+.ipynb_checkpoints/
+
+# Editor / OS clutter
+.vscode/
+Thumbs.db
