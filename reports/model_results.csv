@@ -1,0 +1,8 @@
+Model,CV MAE (€),CV MAE std (€),Test MAE (€),Test R²
+Median baseline,303.6,1.8,306.9,-0.107
+"Linear Regression (size, rooms, Bundesland)",173.4,1.3,175.2,0.653
+Linear Regression (all features),120.4,0.8,121.3,0.819
+"Linear Regression (all features, log target)",112.7,1.1,114.3,0.724
+Random Forest (log target),101.8,0.8,100.2,0.854
+LightGBM,86.3,0.4,86.0,0.898
+LightGBM (log target),84.6,0.5,84.5,0.896
