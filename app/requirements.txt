@@ -1,0 +1,8 @@
+# Minimal dependencies for deploying the app (Streamlit Community Cloud uses this file).
+# Versions match the ones used to train models/rent_model.joblib.
+pandas==3.0.6
+numpy==2.5.3
+scikit-learn==1.9.1
+lightgbm==4.7.0
+joblib==1.6.0
+streamlit==1.64.0
